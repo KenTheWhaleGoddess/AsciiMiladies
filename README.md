@@ -4,6 +4,7 @@ Ascii Miladies are a collection of 10,000 generative pfpNFT's in a neochibi aest
 Free mints were offered to several Remilia collections like Milady, Remilio, Radbro.
 
 Contract - https://etherscan.io/address/0x7BCF14419DEeF9eb466BeEFA75cF294BcA65D985
+
 Mint page - https://www.scatter.art/ascii-milady?tab=mint
 
 
