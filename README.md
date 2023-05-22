@@ -6,7 +6,9 @@ Free mints were offered to several Remilia collections like Milady, Remilio, Rad
 Contract - https://etherscan.io/address/0x7BCF14419DEeF9eb466BeEFA75cF294BcA65D985
 
 Mint page - https://www.scatter.art/ascii-milady?tab=mint
-
+Secondary marketplaces:
+- Blur: https://blur.io/collection/ascii-milady
+- Opensea: https://opensea.io/collection/ascii-milady
 
 # NPM
 
